@@ -1,0 +1,6 @@
+{
+  "name": "Teach For Hong Kong | Mission for Educational Equity",
+  "description": "SpaceX-inspired platform for Teach For Hong Kong (良師香港), featuring the Fellowship leadership mission, student telemetry, school deployments, and cohort applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
